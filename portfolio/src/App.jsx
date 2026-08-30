@@ -3,7 +3,6 @@ import {
   Nav,
   About,
   Skills,
-  Projects,
   Contact,
   Footer
 } from './sections';
