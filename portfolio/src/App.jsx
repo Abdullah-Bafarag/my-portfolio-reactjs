@@ -19,7 +19,6 @@ const App = () => {
         <About />
         <Skills />
         <Services />
-        {/* <Projects /> in the future */}
         <Contact />
       </main>
 
