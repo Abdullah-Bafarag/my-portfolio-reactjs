@@ -1,6 +1,5 @@
-import React from 'react'
+
 import { FaGithub } from "react-icons/fa6";
-import { FaLinkedin } from "react-icons/fa6";
 import { FaTelegramPlane } from "react-icons/fa";
 
 const HomeSocials = () => {
